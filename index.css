@@ -1,0 +1,17 @@
+#container{
+	width: 500px;
+	height: 500px;
+	display: grid;
+	max-width: 500px;
+	max-height: 500px;
+	
+
+}
+
+#square{
+	outline: 1px solid;
+	height: 25px;
+	width: 25px;
+	
+
+}
